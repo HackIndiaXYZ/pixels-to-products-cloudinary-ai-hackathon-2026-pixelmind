@@ -1,4 +1,7 @@
 # PixelMind — AI-Powered Marketing Creative Studio
+## 🚀 Live Demo
+
+[PixelMind Live Demo](https://pixelmind-beta.vercel.app/)
 
 > **HackIndia 2026 · Cloudinary AI Track Submission**
 
